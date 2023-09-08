@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AWS Three Tier Web Architecture Workshop
 
 ## Description: 
@@ -29,3 +30,7 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
+=======
+# AWS-Three-Tier-Web-Architecture
+Steps on how to create an AWS Three Tier Web Architecture
+>>>>>>> d943e2cdadf7eec66e4db1f978f77f8152a15506
